@@ -1,8 +1,6 @@
 demo/
 demo.server
-*.ts
 !index.d.ts
 *.map
-*.json
 *.log
 .tmp
